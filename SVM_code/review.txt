@@ -1,0 +1,21 @@
+# Format of notebook:
+# Give a diagram and explaination of the network
+# importing libraries
+# defining the helper function
+# training
+# plotting
+# testing
+# plotting 
+
+
+# Questions to ask:
+# 1. We need to ensure that every module finishes in its first oscillation (i think), so make a new network with not all oscillating
+# 2. as doing odeint for basically 1 step, do  i really need to do it? can simply do x_t = x_t-1 + dxdt?
+# 3. between oscillations, the transition causes change in concentration of other species Answer: space by 2 oscillations , o1 ,o2, then o3 and also introduce o4
+# 4. Different species for read and write (not LHS and RHS in species)
+# 5. jumbled order of instructions forces us to include change threshold update. do u want that?
+
+
+# Things to do:
+# 1. formalise the notebook, by adding markdowns
+# 2. check reviews once
