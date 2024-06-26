@@ -23,5 +23,11 @@
 # Things for meet
 1. show that the common and different oscillations do work
 2. confirm that i am comparing Q+ and Q- + 1
-3. comparing doesnt work at o1 . need to give it o3 and am o5
+3. comparing works at o1 . am ot o3 but obviously when o1 starts, it goes back to og
+4. confirm weight update part and sum  also works at 03
+5. final update in o5
 
+things to do
+random weights
+increase time limit
+have multiple points
