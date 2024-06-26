@@ -19,3 +19,9 @@
 # Things to do:
 # 1. formalise the notebook, by adding markdowns
 # 2. check reviews once
+
+# Things for meet
+1. show that the common and different oscillations do work
+2. confirm that i am comparing Q+ and Q- + 1
+3. comparing doesnt work at o1 . need to give it o3 and am o5
+
