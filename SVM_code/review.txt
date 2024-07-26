@@ -29,5 +29,6 @@
 
 things to do
 random weights
+batch and cycling thru
 increase time limit
 have multiple points
