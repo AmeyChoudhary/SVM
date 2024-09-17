@@ -32,4 +32,12 @@ random weights
 batch and cycling thru
 increase time limit
 y can be -1
-convergence
+
+convergence: 
+dip when basically Q_p and Q-n change in order of who is greater
+place of dip is dependant on order of weights and lr 
+dip is natural as shown in hyperplane movement, loss is natural down and then increases so it moves into local minima and out of it
+changing by current algorithm as always update to include stopping and dynamic lr
+case 1 is not separable so always a factor of bgta  and regularizing so always updating but does cause to go closer 
+in case 1 always so always moving, looks like convergence when lr * epochs = 10, 
+case 2, no update, as below threshold value, but shall update always
